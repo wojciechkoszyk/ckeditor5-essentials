@@ -11,14 +11,14 @@
   ],
   "dependencies": {
     "@ckeditor/ckeditor5-clipboard": "^16.0.0",
-    "@ckeditor/ckeditor5-core": "^16.0.0",
+    "@ckeditor/ckeditor5-core": "github:wojciechkoszyk/ckeditor5-core",
     "@ckeditor/ckeditor5-enter": "^16.0.0",
     "@ckeditor/ckeditor5-typing": "^16.0.0",
     "@ckeditor/ckeditor5-undo": "^16.0.0"
   },
   "devDependencies": {
-    "@ckeditor/ckeditor5-editor-classic": "^16.0.0",
-    "@ckeditor/ckeditor5-paragraph": "^16.0.0",
+    "@ckeditor/ckeditor5-editor-classic": "github:wojciechkoszyk/ckeditor5-editor-classic",
+    "@ckeditor/ckeditor5-paragraph": "github:wojciechkoszyk/ckeditor5-paragraph",
     "eslint": "^5.5.0",
     "eslint-config-ckeditor5": "^2.0.0",
     "husky": "^1.3.1",
